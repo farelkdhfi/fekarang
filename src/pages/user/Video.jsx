@@ -30,7 +30,7 @@ const Video = () => {
             Video telah selesai. Tonton versi lengkapnya di YouTube.
           </p>
           <a
-            href=""
+            href="https://youtu.be/z330wa2ND6A?si=dPRSDJNWJdaRD_65"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-6 py-3 rounded-full transition-all duration-300"
