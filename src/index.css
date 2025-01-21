@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    user-select: none;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+::-webkit-scrollbar {
+    background-color: white;
+    width: 5px;
+    color: black;
+}
+
+::-webkit-scrollbar-button {
+    background-color: white;
+    color: white;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: green;
+}
