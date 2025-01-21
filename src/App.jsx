@@ -46,11 +46,13 @@ import EditPekerjaan from "./pages/admin/EditPekerjaan";
 import EditKas from "./pages/admin/EditKas";
 import SemuaProduk from "./pages/user/SemuaProduk";
 import PotensiDesa from "./pages/user/PotensiDesa";
+import ScrollToTop from "./utils/ScrollToTop";
 
 function App() {
   return (
     <AuthProvider>
       <Router>
+        <ScrollToTop />
         <Routes>
           <Route path="/" element={<HomePage />} />          
           <Route path="/homeedit" element={<HomePageEdit />} />          
