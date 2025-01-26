@@ -1,7 +1,7 @@
 import React from 'react';
 import { TbBrandFacebook, TbBrandInstagram, TbBrandTwitter } from 'react-icons/tb';
 import Logo from '../assets/LogoKabupatenTasikmalaya.png';
-import LogoKKN from '../assets/logokkn.png';
+import LogoKKN from '../assets/logokkn2.png';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
