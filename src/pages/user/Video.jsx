@@ -26,9 +26,6 @@ const Video = () => {
       {/* Show Link After Video Ends */}
       {showLink && (
         <div className="absolute inset-0 flex flex-col justify-center items-center bg-black bg-opacity-70">
-          <p className="text-gray-300 text-sm mb-4 text-center">
-            Video telah selesai. Tonton versi lengkapnya di YouTube.
-          </p>
           <a
             href="https://youtu.be/z330wa2ND6A?si=dPRSDJNWJdaRD_65"
             target="_blank"
