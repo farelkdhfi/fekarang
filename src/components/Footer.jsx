@@ -17,7 +17,6 @@ const Footer = () => {
             <p className="text-sm text-gray-400">Email: infokaranglayung@gmail.com</p>
           </div>
           
-        <div className="flex flex-col lg:flex-row justify-between items-center">
           {/* Logo dan Informasi KKN */}
           <div className="text-center lg:text-left">
             <img src={LogoKKN} alt="Logo KKN 60" className="w-24 mx-auto lg:mx-0" />
