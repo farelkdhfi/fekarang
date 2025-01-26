@@ -221,7 +221,7 @@ const HomePage = () => {
               animate={sectionInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
               transition={{ delay: 0.4, duration: 0.8, ease: "easeOut" }}
             >
-              Ayo, Jelajahi Desa Kami!
+              Layung Digital
             </motion.h2>
             <motion.p
               className="text-sm lg:text-base text-gray-700 mt-4"
