@@ -20,8 +20,8 @@ const Footer = () => {
           {/* Logo dan Informasi KKN */}
           <div className="text-center lg:text-left">
             <img src={LogoKKN} alt="Logo KKN 60" className="w-24 mx-auto lg:mx-0" />
-            <h2 className="text-lg font-bold mt-4">Kelompok KKN 60</h2>
-            <p className="text-sm text-gray-400">UNIVERSITAS SILIWANGI</p>
+            <h2 className="text-lg font-bold mt-4">KELOMPOK KKN 60</h2>
+            <p className="text-sm text-gray-400">Universitas Siliwangi</p>
             <p className="text-sm text-gray-400">Email: kknkaranglayung60@gmail.com</p>
           </div>
 
