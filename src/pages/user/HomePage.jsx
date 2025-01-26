@@ -119,7 +119,7 @@ const HomePage = () => {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 0.4, duration: 0.8, ease: 'easeOut' }}
                 >
-                  Desa Karanglayung
+                  Layung Digital
                 </motion.h1>
                 <motion.h3
                   className="text-lg lg:text-xl mt-2"
@@ -127,7 +127,8 @@ const HomePage = () => {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.6, duration: 0.8, ease: 'easeOut' }}
                 >
-                  Kec. Karangjaya Kab. Tasikmalaya
+                 Desa Karanglayung Kec. Karangjaya Kab. Tasikmalaya
+                  Made By KKN 60 Universitas Siliwangi
                 </motion.h3>
                 <motion.div
                   className="flex justify-center items-center lg:justify-start flex-row gap-3 text-sm lg:text-lg mt-5"
