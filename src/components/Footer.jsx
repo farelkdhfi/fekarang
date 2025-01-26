@@ -1,6 +1,7 @@
 import React from 'react';
 import { TbBrandFacebook, TbBrandInstagram, TbBrandTwitter } from 'react-icons/tb';
 import Logo from '../assets/LogoKabupatenTasikmalaya.png';
+import LogoKKN from '../assets/logokkn.png';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -14,6 +15,15 @@ const Footer = () => {
             <h2 className="text-lg font-bold mt-4">Desa Karanglayung</h2>
             <p className="text-sm text-gray-400">Kec. Karangjaya, Kab. Tasikmalaya</p>
             <p className="text-sm text-gray-400">Email: infokaranglayung@gmail.com</p>
+          </div>
+          
+        <div className="flex flex-col lg:flex-row justify-between items-center">
+          {/* Logo dan Informasi KKN */}
+          <div className="text-center lg:text-left">
+            <img src={LogoKKN} alt="Logo KKN 60" className="w-24 mx-auto lg:mx-0" />
+            <h2 className="text-lg font-bold mt-4">Kelompok KKN 60</h2>
+            <p className="text-sm text-gray-400">UNIVERSITAS SILIWANGI</p>
+            <p className="text-sm text-gray-400">Email: kknkaranglayung60@gmail.com</p>
           </div>
 
           {/* Navigasi */}
