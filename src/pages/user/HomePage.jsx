@@ -128,7 +128,6 @@ const HomePage = () => {
                   transition={{ delay: 0.6, duration: 0.8, ease: 'easeOut' }}
                 >
                  Desa Karanglayung Kec. Karangjaya Kab. Tasikmalaya
-                  Made By KKN 60 Universitas Siliwangi
                 </motion.h3>
                 <motion.div
                   className="flex justify-center items-center lg:justify-start flex-row gap-3 text-sm lg:text-lg mt-5"
