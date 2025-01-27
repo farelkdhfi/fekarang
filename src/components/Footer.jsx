@@ -86,7 +86,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="mt-8 text-center border-t border-gray-700 pt-4">
-          <p className="text-sm text-gray-500"> Made By Love KKN 60 UNIVERSITAS SILIWANGI</p>
+          <p className="text-sm text-gray-500"> Made With Love KKN 60 UNIVERSITAS SILIWANGI</p>
           <p className="text-sm text-gray-500">
             &copy; {new Date().getFullYear()} Desa Karanglayung. All Rights Reserved.
           </p>
