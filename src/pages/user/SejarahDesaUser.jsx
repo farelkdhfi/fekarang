@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import cibuni1 from '../../assets/kebun.jpeg';
 import cibuni2 from '../../assets/tambang.jpeg';
 import cibuni3 from '../../assets/bukit.png';
-import cibuni4 from '../../assets/cibuni4.jpg';
+import cibuni4 from '../../assets/pos.jpg';
 import customApi from '../../api';
 
 const SejarahDesaUser = () => {
