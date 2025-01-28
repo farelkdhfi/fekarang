@@ -72,11 +72,11 @@ const Layanan = () => {
                                     </thead>
                                     <tbody>
                                         <tr>
+                                        <tr className="bg-gray-100">
                                             <td className="border px-4 py-2">Sabtu, Minggu ke-1</td>
                                             <td className="border px-4 py-2">09:00 WIB</td>
                                             <td className="border px-4 py-2">Sukaharja</td>
                                         </tr>
-                                        <tr className="bg-gray-100">
                                             <td className="border px-4 py-2">Senin, Minggu ke-2</td>
                                             <td className="border px-4 py-2">09:00 WIB</td>
                                             <td className="border px-4 py-2">Karangsirna</td>
@@ -86,12 +86,12 @@ const Layanan = () => {
                                             <td className="border px-4 py-2">09:00 WIB</td>
                                             <td className="border px-4 py-2">Karangpaningal</td>
                                         </tr>
-                                        <tr className="bg-gray-100">
                                             <td className="border px-4 py-2">Sabtu, Minggu ke-2</td>
                                             <td className="border px-4 py-2">09:00 WIB</td>
                                             <td className="border px-4 py-2">Pananjung</td>
                                         </tr>
                                         <tr>
+                                        <tr className="bg-gray-100">
                                             <td className="border px-4 py-2">Selasa, Minggu ke-3</td>
                                             <td className="border px-4 py-2">09:00 WIB</td>
                                             <td className="border px-4 py-2">Citambal</td>
@@ -102,6 +102,7 @@ const Layanan = () => {
                                             <td className="border px-4 py-2">Ciherang</td>
                                         </tr>
                                         <tr>
+                                        <tr className="bg-gray-100">
                                             <td className="border px-4 py-2">Sabtu, Minggu ke-3</td>
                                             <td className="border px-4 py-2">09:00 WIB</td>
                                             <td className="border px-4 py-2">Kertajaya</td>
