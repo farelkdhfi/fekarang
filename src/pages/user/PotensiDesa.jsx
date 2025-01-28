@@ -33,7 +33,7 @@ function PotensiDesa() {
             <section className="bg-white text-blue-700 text-center pt-24 px-4 sm:px-6">
                 <h1 className="text-xl lg:text-3xl font-bold">Potensi Wisata Desa</h1>
                 <p className=" text-sm lg:text-xl font-light max-w-2xl mx-auto">
-                    Jelajahi potensi wisata di desa kami yang penuh dengan keindahan alam dan kekayaan budaya.
+                    Desa Karanglayung Kec.Karangjaya Kabupaten Tasikmalaya
                 </p>
             </section>
 
